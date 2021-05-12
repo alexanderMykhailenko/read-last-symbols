@@ -1,0 +1,26 @@
+{
+  "name": "read-last-symbols",
+  "version": "0.0.1",
+  "description": "Read Last Symbols From File",
+  "keywords": [
+    "read-last-symbols",
+    "last symbols",
+    "last characters",
+    "last characters of a string"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderMykhailenko/read-last-symbols.git"
+  },
+  "author": "Alexander Mykhailenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexanderMykhailenko/read-last-symbols/issues"
+  },
+  "homepage": "https://github.com/alexanderMykhailenko/read-last-symbols#readme",
+  "dependencies": {}
+}
